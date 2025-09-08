@@ -49,5 +49,5 @@ Offers filter controls for Genre, Rating, Vote count, and Duration; tables and p
 ![filteration](screenshots/filteration.png)
 
 ### 3. Visualization Example
-![visualization](screenshots/visualization.png)
+![visualization](screenshot/visualization.png)
 
