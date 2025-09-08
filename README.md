@@ -43,11 +43,11 @@ Offers filter controls for Genre, Rating, Vote count, and Duration; tables and p
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](C:\Users\Raj Kumar R\Desktop\raguls\IMDB_2024_PROJECT\screenshots/homepage.png)
+![home page](screenshots/homepage.png)
 
 ### 2. Filtering Example
-![Filtering](C:\Users\Raj Kumar R\Desktop\raguls\IMDB_2024_PROJECT\screenshots/filtering.png)
+![filteration](screenshots/filteration.png)
 
 ### 3. Visualization Example
-![Visualization](C:\Users\Raj Kumar R\Desktop\raguls\IMDB_2024_PROJECT\screenshots/visualization.png)
+![visualization](screenshots/visualization.png)
 
