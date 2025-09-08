@@ -43,10 +43,10 @@ Offers filter controls for Genre, Rating, Vote count, and Duration; tables and p
 ## Screenshots
 
 ### 1. Home Page
-![home page](screenshots/homepage.png)
+![home page](screenshot/filteration.png/homepage.png)
 
 ### 2. Filtering Example
-![filteration](screenshots/filteration.png)
+![filteration](screenshot/filteration.png)
 
 ### 3. Visualization Example
 ![visualization](screenshot/visualization.png)
